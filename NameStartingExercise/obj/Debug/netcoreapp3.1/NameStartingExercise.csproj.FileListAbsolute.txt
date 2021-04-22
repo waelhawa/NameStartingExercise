@@ -1,0 +1,13 @@
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\bin\Debug\netcoreapp3.1\NameStartingExercise.exe
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\bin\Debug\netcoreapp3.1\NameStartingExercise.deps.json
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\bin\Debug\netcoreapp3.1\NameStartingExercise.runtimeconfig.json
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\bin\Debug\netcoreapp3.1\NameStartingExercise.runtimeconfig.dev.json
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\bin\Debug\netcoreapp3.1\NameStartingExercise.dll
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\bin\Debug\netcoreapp3.1\NameStartingExercise.pdb
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\obj\Debug\netcoreapp3.1\NameStartingExercise.csprojAssemblyReference.cache
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\obj\Debug\netcoreapp3.1\NameStartingExercise.AssemblyInfoInputs.cache
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\obj\Debug\netcoreapp3.1\NameStartingExercise.AssemblyInfo.cs
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\obj\Debug\netcoreapp3.1\NameStartingExercise.csproj.CoreCompileInputs.cache
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\obj\Debug\netcoreapp3.1\NameStartingExercise.dll
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\obj\Debug\netcoreapp3.1\NameStartingExercise.pdb
+F:\GrandCircus\C#\NameStartingExercise\NameStartingExercise\obj\Debug\netcoreapp3.1\NameStartingExercise.genruntimeconfig.cache
